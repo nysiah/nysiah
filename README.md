@@ -29,7 +29,13 @@
   - Azure Administrator (AZ-104)
   - Azure Fundamentals (AZ-900)
  
+<h2>🛠️Tools Used:</h2>
 
+  - Windows Server                    
+  - Active Directory
+  - Splunk
+  - Azure
+  - VMware
 
 <!--
 **nysiah/nysiah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
