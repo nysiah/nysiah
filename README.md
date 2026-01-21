@@ -4,7 +4,7 @@
 <h2>💻 Cybersecurity, IAM, & IT Support Labs:</h2>
 
 - <b>Identity & Access</b>
-  - [Active Directory Home Lab](https://github.com/nysiah)
+  - [Active Directory Basics Lab](https://github.com/aichant1/Active-Directory-Basics---Identity-Access-Management-Lab/tree/main)
 - <b>SIEM & Security Monitoring</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
